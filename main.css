@@ -3,6 +3,20 @@ body{
     padding: 0;
 }
 .container{
+    max-width: 1260px;
      margin: 0 auto;
      padding: 0 10px;
+}
+.navigate{
+    background-image: url(./images/backround\ img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1000PX;
+}
+.header-cards{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
 }
